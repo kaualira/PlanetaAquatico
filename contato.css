@@ -187,18 +187,19 @@ nav li:hover {
     position: absolute;
     left: 90px;
     font-family:'Signika', sans-serif;
+    top: 660px;
 }
 
 .enredeço2 {
     position: absolute;
     left: 90px;
-    top: 665px;
+    top: 680px;
     font-family:'Signika', sans-serif;
 }
 .enredeço3 {
     position: absolute;
     left: 90px;
-    top: 690px;
+    top: 700px;
     font-family:'Signika', sans-serif;
 }
 
