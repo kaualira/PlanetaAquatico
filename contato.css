@@ -141,12 +141,9 @@ nav li:hover {
     width: 300px;
   }
 
-  .forms1 textarea {
-    color: black
-  }
 
-  .h2 {
-    font-family: 'Signika', sans-serif;
+  h2 {
+    font-family: 'Signika Negative', sans-serif;
     font-size: 20px;
   }
 
