@@ -129,13 +129,47 @@ nav li:hover {
     
 
 }
-.forms1{
-    background-color: #E6E6E6;
+.forms1 {
+    padding: 5px;
+    margin-top: 10px;
+    display: block;
+    margin-bottom: 5px;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    font-size: 16px;
+    border: none;
+    width: 300px;
+  }
+
+  .forms1 textarea {
+    color: black
+  }
+
+  .h2 {
+    font-family: 'Signika', sans-serif;
+    font-size: 20px;
+  }
+
+  .button {
+    padding: 10px 20px;
+    background-color: #F8BF2E;
+    font-family: 'Indie Flower', cursive;
+
+    border: none;
+    cursor: pointer;
     border-radius: 5px;
-}
-.button{
-    background-color: #faae4b;
-}
+    /* Arredonda os botões */
+    width: 90px;
+    position: relative;
+    left: 100px;
+    margin-top: 25px;
+  }
+
+  .button textarea {
+    color: black;
+    resize: vertical;
+
+  }
 
 .logogrande {
     width: 270px;
