@@ -120,11 +120,7 @@ nav li:hover {
     left: 395px;
     top:105px;
 }
-.piscina {
-    position: absolute;
-    width: 100%;
-    height: 483px;
-}
+
 .piscinas {
     background-color:rgb(255, 210, 151) ;
     width: 450px;
@@ -135,9 +131,10 @@ nav li:hover {
 }
 .titulopiscina {
     font-family:'Signika', sans-serif;
-    left: 40px; 
+    left: 140px; 
     position: absolute;
-    font-size: 28px;
+    font-size: 45px;
+    top: -25px;
 }
 .piscinaimagem {
     position: absolute;
@@ -151,12 +148,111 @@ nav li:hover {
 .textopiscinas {
     position: absolute;
     top: 300px;
+    font-family:'Signika', sans-serif;
+    width: 400px;
+    left: 35px;
+}
+.toboaguas {
+    background-color:rgb(255, 210, 151) ;
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    right: 100px;
+    border-radius: 25px;
+}
+.titulotoboaguas {
+    font-family:'Signika', sans-serif;
+    left: 140px; 
+    position: absolute;
+    font-size: 45px;
+    top: -25px;
+}
+.toboaguasimagem {
+    position: absolute;
+    width: 420px;
+    height: 200px;
+    left: 15px;
+    top:50px;
+    border-radius: 25px;
+    top:75px;
+}
+.textotoboaguas {
+    position: absolute;
+    top: 300px;
+    font-family:'Signika', sans-serif;
+    width: 400px;
+    left: 35px;
+}
+.riolento {
+    background-color:rgb(255, 210, 151) ;
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    left: 100px;
+    border-radius: 25px;
+    top: 900px;
+}
+.tituloriolento {
+    font-family:'Signika', sans-serif;
+    left: 140px; 
+    position: absolute;
+    font-size: 45px;
+    top: -25px;
+}
+.riolentoimagem {
+    position: absolute;
+    width: 420px;
+    height: 200px;
+    left: 15px;
+    top:50px;
+    border-radius: 25px;
+    top:75px;
+}
+.textoriolento {
+    position: absolute;
+    top: 300px;
+    font-family:'Signika', sans-serif;
+    width: 400px;
+    left: 35px;
+}
+.infantil {
+    background-color:rgb(255, 210, 151) ;
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    right: 100px;
+    border-radius: 25px;
+    top: 900px;
+}
+.tituloinfantil {
+    font-family:'Signika', sans-serif;
+    left: 100px; 
+    position: absolute;
+    font-size: 45px;
+    top: -25px;
+}
+.infantilimagem {
+    position: absolute;
+    width: 420px;
+    height: 200px;
+    left: 15px;
+    top:50px;
+    border-radius: 25px;
+    top:75px;
+}
+.textoinfantil {
+    position: absolute;
+    top: 300px;
+    font-family:'Signika', sans-serif;
+    width: 400px;
+    left: 35px;
 }
 .footer {
     background-color: #FFA32A;
     height: 30%;
     width: 100%;
     position: absolute;
+    
     
 }
 .copy {
